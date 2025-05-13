@@ -1,2 +1,2 @@
 # bookbot
-Boot.deev bookbot tutorial
+Boot.dev bookbot tutorial
